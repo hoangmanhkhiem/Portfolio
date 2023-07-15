@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/securitybox.jpeg",
     place: "SecurityBox",
     time: "(May, 2022 - present)",
-    desp: "<li>Worked to migrate Flipkart lite’s product page to AMP pages so that they load up instantly.</li> <li>Made changes in the current progressive web app of Flipkart to react to different actions performed on AMP page.</li> <li>Created a node module called “fk-amp” which abstracts all the files and middlewares and can be easily imported and used from express server.</li>",
+    desp: "<li>System penetration testing</li><li>Dynamic young security expert</li><li>participating in big projects such as: CVA security patching, Decoding malware, .. and succeeding and commending and rewarding</li>",
   },
   {
     title: "Student Developer",

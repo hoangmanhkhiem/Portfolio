@@ -44,7 +44,7 @@ body{
   font-family: "Poppins";
 }
 #home,
-#particles-js {
+particles-js {
   position: relative;
   height: 100vh;
   width: 100%;
