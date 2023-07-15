@@ -29,7 +29,6 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="skills.html">Skills</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="404.html">References</a></li>
   </ul>
 </div>
 </nav>`);
